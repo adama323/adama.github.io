@@ -1,0 +1,14 @@
+---
+title: "Web Page Creation Unit 12"
+author: "Adam Alidra"
+date: "3/22/2021"
+output: html_document
+---
+
+# Simple Website for Unit 12
+
+## Note: The 6 lines of text above are the YAML tags
+
+### Knit the RMD to a html file next
+
+##### Push index.html to the github.io repo.
